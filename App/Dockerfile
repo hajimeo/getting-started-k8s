@@ -1,6 +1,6 @@
 FROM node:current-slim
 
-LABEL MAINTAINER=test@hajigle.com
+LABEL MAINTAINER=test@example.con
 
 # Copy source code to /src in container
 COPY . /src
